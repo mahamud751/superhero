@@ -1,11 +1,11 @@
 # Getting Started with SOFTWARE BRAINS
-This project was bootstrapped with [Create React App](https://github.com/ProgrammingHeroWC4/the-superhero-direction-mahamud751).
+This project was bootstrapped with(https://github.com/ProgrammingHeroWC4/the-superhero-direction-mahamud751).
 
 
-## Our Company Target
-**We try to find the best solution in any specific case
-**It is very important to satisfy our clients and meet their needs
-**We provide a coherent plan with business steps for each client
+# Our Company Target-------
+# We try to find the best solution in any specific case
+# It is very important to satisfy our clients and meet their needs
+# We provide a coherent plan with business steps for each client
 
 ## Available Scripts
 
