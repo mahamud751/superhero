@@ -1,0 +1,23 @@
+
+.img-fluid{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.card{
+    background: radial-gradient(circle, rgb(46 44 73) 0%, rgb(255 255 255) 0%, rgb(213 248 255) 93%, rgb(217 242 247) 100%);
+    border-radius: 30px;
+    padding: 20px;
+    margin: 30px;
+}
+.card-body h4{
+    font-size: 25px;
+    font-weight: 400;
+}
+.normal-btn{
+    background-color: rgb(197, 245, 125);
+    width: 150px;
+    line-height: 35px;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+}
