@@ -7,7 +7,7 @@ This project was bootstrapped with(https://github.com/ProgrammingHeroWC4/the-sup
 # It is very important to satisfy our clients and meet their needs
 # We provide a coherent plan with business steps for each client
 
-## Available Scripts
+
 
 <!-- In the project directory, you can run:
 
