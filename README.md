@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with SOFTWARE BRAINS
+This project was bootstrapped with [Create React App](https://github.com/ProgrammingHeroWC4/the-superhero-direction-mahamud751).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Our Company Target
+**We try to find the best solution in any specific case
+**It is very important to satisfy our clients and meet their needs
+**We provide a coherent plan with business steps for each client
 
 ## Available Scripts
 
-In the project directory, you can run:
+<!-- In the project directory, you can run:
 
 ### `npm start`
 
@@ -67,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
